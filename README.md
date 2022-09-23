@@ -15,3 +15,8 @@ Finally, this project contains a web app where you can input a message and get c
 
 3. Run your web app: `python run.py`
 
+
+
+# A credit to Udacity
+This project is part of the Udacity Nanodegree, therefore the Template is provided By Udacity.
+
