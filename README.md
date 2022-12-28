@@ -18,5 +18,4 @@ Finally, this project contains a web app where you can input a message and get c
 
 
 # A credit to Udacity
-This project is part of the Udacity Nanodegree, therefore the Template is provided By Udacity.
-
+This project is part of the Udacity Nanodegree.
