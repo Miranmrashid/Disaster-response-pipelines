@@ -50,9 +50,9 @@ In a Python script, train_classifier.py, we write a machine learning pipeline th
 3. Run your web app: `python run.py`
 
 ## Web App 
-![](Images/drp1.jpg)
+![](app/drp_1.jpg)
 
-![](Images/drp2.jpg)
+![](app/drp_2.jpg)
 
 
 #### A credit to Udacity
