@@ -56,4 +56,4 @@ In a Python script, train_classifier.py, we write a machine learning pipeline th
 
 
 #### A credit to Udacity
-This project is part of the Udacity Nanodegree.
+This project is part of the BOSCH AI TALENT ACCELERATOR (Udacity Nanodegree).
